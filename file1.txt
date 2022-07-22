@@ -6,6 +6,7 @@ hello!
 heyyy
 =======
 heloo!
+<<<<<<< HEAD
 >>>>>>> cab06ff (file added)
 =======
 heloo!
@@ -13,3 +14,6 @@ heloo!
 =======
 heloo!
 >>>>>>> cab06ff (file added)
+=======
+working hard :(
+>>>>>>> a3cd2ad (message modififed)
