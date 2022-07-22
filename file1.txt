@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 hello!
 heyyy
+=======
+heloo!
+>>>>>>> cab06ff (file added)
 =======
 heloo!
 >>>>>>> cab06ff (file added)
