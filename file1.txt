@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 hello!
 heyyy
+=======
+heloo!
+>>>>>>> cab06ff (file added)
